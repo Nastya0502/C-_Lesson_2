@@ -32,7 +32,7 @@ int IndexOff(int[] collection, int find)
             position = index;
             break;            
         }
-        index++
+        index++;
     }
     return position;
 }
